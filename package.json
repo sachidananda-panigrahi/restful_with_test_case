@@ -1,0 +1,26 @@
+{
+  "name": "fitsap_api",
+  "version": "1.0.0",
+  "description": "Node restful API with Test cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachin-weboniselab/restful_with_test_case.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachin-weboniselab/restful_with_test_case/issues"
+  },
+  "homepage": "https://github.com/sachin-weboniselab/restful_with_test_case#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "mongoose": "^4.3.0"
+  }
+}
